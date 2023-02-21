@@ -1,0 +1,1081 @@
+Emlpoyee ID,Tier,Element,Question Type,Question,Numeric Response,Response
+test employee 1,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,4,4. Agree
+test employee 1,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 1,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,4,4. Agree
+test employee 1,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,4,4. Agree
+test employee 1,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 1,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 1,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 1,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 1,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 1,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 1,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 1,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 1,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 1,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 1,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,4,4. Agree
+test employee 1,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 1,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 1,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 1,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 1,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 1,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 1,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,2,2. Somewhat disagree
+test employee 1,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 1,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 1,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 1,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 1,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 1,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 1,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,1,1. Disagree
+test employee 1,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 1,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 1,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 1,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 1,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 1,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 1,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 2,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,4,4. Agree
+test employee 2,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 2,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 2,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 2,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 2,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 2,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 2,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 2,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 2,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 2,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 2,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,1,1. Disagree
+test employee 2,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 2,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 2,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 2,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,1,1. Disagree
+test employee 2,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 2,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,3,3. Somewhat agree
+test employee 2,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,2,2. Somewhat disagree
+test employee 2,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 2,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 2,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 2,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 2,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 2,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,1,1. Disagree
+test employee 2,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 2,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 2,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 2,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 2,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 2,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 2,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 2,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 2,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 2,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,1,1. Disagree
+test employee 2,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 3,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 3,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,3,3. Somewhat agree
+test employee 3,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,4,4. Agree
+test employee 3,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 3,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 3,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 3,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 3,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 3,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 3,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 3,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 3,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,1,1. Disagree
+test employee 3,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 3,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 3,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,4,4. Agree
+test employee 3,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 3,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 3,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,3,3. Somewhat agree
+test employee 3,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,2,2. Somewhat disagree
+test employee 3,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 3,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 3,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,2,2. Somewhat disagree
+test employee 3,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 3,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 3,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,1,1. Disagree
+test employee 3,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 3,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 3,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 3,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,1,1. Disagree
+test employee 3,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 3,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 3,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 3,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 3,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 3,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 3,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 4,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,4,4. Agree
+test employee 4,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 4,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 4,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 4,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 4,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 4,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 4,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 4,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 4,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,4,4. Agree
+test employee 4,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 4,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 4,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 4,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 4,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,4,4. Agree
+test employee 4,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,1,1. Disagree
+test employee 4,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 4,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 4,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 4,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 4,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 4,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 4,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,2,2. Somewhat disagree
+test employee 4,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 4,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 4,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 4,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 4,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 4,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 4,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 4,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 4,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 4,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 4,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 4,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,1,1. Disagree
+test employee 4,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 5,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 5,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 5,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 5,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 5,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 5,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 5,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 5,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 5,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 5,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 5,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 5,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,1,1. Disagree
+test employee 5,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 5,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 5,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,4,4. Agree
+test employee 5,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 5,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 5,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 5,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 5,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 5,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 5,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 5,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 5,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 5,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,1,1. Disagree
+test employee 5,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 5,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 5,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 5,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 5,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,3,3. Somewhat agree
+test employee 5,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 5,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 5,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 5,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 5,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,1,1. Disagree
+test employee 5,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 6,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,4,4. Agree
+test employee 6,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 6,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,4,4. Agree
+test employee 6,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 6,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 6,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 6,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 6,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 6,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 6,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 6,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 6,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 6,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 6,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 6,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 6,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 6,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 6,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 6,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 6,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 6,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 6,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 6,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 6,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 6,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 6,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 6,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 6,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 6,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 6,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 6,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 6,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 6,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 6,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 6,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,1,1. Disagree
+test employee 6,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 7,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,4,4. Agree
+test employee 7,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 7,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,4,4. Agree
+test employee 7,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 7,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 7,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 7,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 7,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 7,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 7,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,4,4. Agree
+test employee 7,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 7,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,1,1. Disagree
+test employee 7,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 7,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 7,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 7,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,1,1. Disagree
+test employee 7,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 7,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 7,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 7,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 7,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 7,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 7,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,2,2. Somewhat disagree
+test employee 7,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,3,3. Somewhat agree
+test employee 7,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,1,1. Disagree
+test employee 7,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 7,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,1,1. Disagree
+test employee 7,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 7,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 7,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 7,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 7,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 7,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 7,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 7,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,1,1. Disagree
+test employee 7,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 8,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 8,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 8,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,4,4. Agree
+test employee 8,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 8,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 8,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 8,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 8,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 8,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 8,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 8,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 8,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 8,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 8,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 8,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,4,4. Agree
+test employee 8,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,1,1. Disagree
+test employee 8,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 8,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 8,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 8,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 8,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 8,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,2,2. Somewhat disagree
+test employee 8,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,4,4. Agree
+test employee 8,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 8,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 8,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 8,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,1,1. Disagree
+test employee 8,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 8,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 8,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,3,3. Somewhat agree
+test employee 8,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 8,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 8,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 8,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,3,3. Somewhat agree
+test employee 8,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 8,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 9,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 9,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 9,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,4,4. Agree
+test employee 9,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 9,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 9,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 9,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 9,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 9,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 9,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 9,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 9,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 9,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 9,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 9,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,4,4. Agree
+test employee 9,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 9,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 9,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 9,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 9,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 9,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 9,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 9,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,2,2. Somewhat disagree
+test employee 9,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 9,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,1,1. Disagree
+test employee 9,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 9,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,1,1. Disagree
+test employee 9,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 9,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,1,1. Disagree
+test employee 9,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 9,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 9,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 9,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 9,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 9,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 9,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 10,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 10,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 10,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 10,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 10,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 10,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 10,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 10,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,4,4. Agree
+test employee 10,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 10,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,1,1. Disagree
+test employee 10,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 10,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 10,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 10,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 10,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 10,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,1,1. Disagree
+test employee 10,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 10,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,3,3. Somewhat agree
+test employee 10,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,2,2. Somewhat disagree
+test employee 10,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 10,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 10,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 10,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 10,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 10,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 10,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 10,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 10,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 10,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 10,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 10,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 10,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 10,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 10,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 10,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,1,1. Disagree
+test employee 10,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,4,4. Agree
+test employee 11,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 11,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 11,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 11,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 11,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 11,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,3,3. Somewhat agree
+test employee 11,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 11,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 11,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 11,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 11,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,3,3. Somewhat agree
+test employee 11,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 11,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,4,4. Agree
+test employee 11,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 11,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 11,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,3,3. Somewhat agree
+test employee 11,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,1,1. Disagree
+test employee 11,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 11,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 11,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 11,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 11,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 11,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 11,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 11,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 11,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 11,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 11,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 11,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 11,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 11,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 11,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,1,1. Disagree
+test employee 11,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 11,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 11,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 11,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,4,4. Agree
+test employee 12,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 12,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 12,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 12,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 12,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 12,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 12,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 12,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 12,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,4,4. Agree
+test employee 12,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 12,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 12,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 12,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 12,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 12,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 12,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 12,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 12,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 12,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,2,2. Somewhat disagree
+test employee 12,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 12,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 12,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 12,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 12,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 12,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 12,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 12,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 12,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 12,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 12,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 12,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 12,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 12,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,2,2. Somewhat disagree
+test employee 12,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 12,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 12,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,4,4. Agree
+test employee 13,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 13,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 13,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 13,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 13,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 13,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,3,3. Somewhat agree
+test employee 13,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,4,4. Agree
+test employee 13,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 13,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 13,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 13,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 13,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 13,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 13,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 13,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 13,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 13,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,1,1. Disagree
+test employee 13,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 13,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,2,2. Somewhat disagree
+test employee 13,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 13,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 13,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 13,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 13,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 13,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 13,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 13,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 13,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 13,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 13,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 13,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 13,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 13,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,2,2. Somewhat disagree
+test employee 13,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 13,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,3,3. Somewhat agree
+test employee 13,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,4,4. Agree
+test employee 14,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 14,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,3,3. Somewhat agree
+test employee 14,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 14,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 14,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 14,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 14,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 14,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 14,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 14,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,1,1. Disagree
+test employee 14,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 14,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 14,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 14,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 14,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 14,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 14,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 14,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 14,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 14,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 14,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 14,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 14,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 14,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 14,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 14,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 14,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 14,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 14,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 14,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 14,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 14,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,1,1. Disagree
+test employee 14,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,2,2. Somewhat disagree
+test employee 14,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 14,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 14,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,4,4. Agree
+test employee 15,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 15,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 15,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 15,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 15,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 15,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,3,3. Somewhat agree
+test employee 15,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,4,4. Agree
+test employee 15,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 15,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 15,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 15,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 15,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 15,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 15,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 15,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 15,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 15,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 15,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 15,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 15,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 15,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 15,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 15,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 15,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 15,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,3,3. Somewhat agree
+test employee 15,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 15,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 15,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 15,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 15,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 15,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 15,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 15,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 15,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,3,3. Somewhat agree
+test employee 15,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 15,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,4,4. Agree
+test employee 16,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 16,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,3,3. Somewhat agree
+test employee 16,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 16,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 16,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 16,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,3,3. Somewhat agree
+test employee 16,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 16,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 16,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 16,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,1,1. Disagree
+test employee 16,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 16,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 16,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,2,2. Somewhat disagree
+test employee 16,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 16,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 16,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,3,3. Somewhat agree
+test employee 16,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 16,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 16,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,2,2. Somewhat disagree
+test employee 16,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 16,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 16,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 16,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 16,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 16,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 16,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 16,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 16,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,1,1. Disagree
+test employee 16,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 16,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 16,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 16,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,1,1. Disagree
+test employee 16,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 16,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,3,3. Somewhat agree
+test employee 16,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,3,3. Somewhat agree
+test employee 16,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 17,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 17,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,3,3. Somewhat agree
+test employee 17,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 17,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 17,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 17,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,3,3. Somewhat agree
+test employee 17,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 17,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 17,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 17,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,1,1. Disagree
+test employee 17,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 17,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,4,4. Agree
+test employee 17,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 17,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 17,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 17,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 17,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,1,1. Disagree
+test employee 17,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 17,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 17,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 17,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 17,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 17,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 17,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 17,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,3,3. Somewhat agree
+test employee 17,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 17,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 17,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 17,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 17,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,3,3. Somewhat agree
+test employee 17,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 17,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 17,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,2,2. Somewhat disagree
+test employee 17,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 17,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,3,3. Somewhat agree
+test employee 17,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 18,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 18,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,4,4. Agree
+test employee 18,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 18,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 18,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 18,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 18,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 18,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 18,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 18,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,1,1. Disagree
+test employee 18,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 18,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 18,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 18,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 18,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 18,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 18,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 18,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 18,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 18,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 18,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 18,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 18,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 18,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,3,3. Somewhat agree
+test employee 18,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 18,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 18,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 18,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 18,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 18,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 18,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 18,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,1,1. Disagree
+test employee 18,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 18,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 18,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 18,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 19,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 19,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,3,3. Somewhat agree
+test employee 19,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 19,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 19,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 19,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,3,3. Somewhat agree
+test employee 19,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,4,4. Agree
+test employee 19,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,3,3. Somewhat agree
+test employee 19,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 19,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,1,1. Disagree
+test employee 19,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 19,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 19,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 19,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 19,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,1,1. Disagree
+test employee 19,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 19,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,1,1. Disagree
+test employee 19,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,3,3. Somewhat agree
+test employee 19,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 19,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 19,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 19,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 19,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 19,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 19,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 19,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 19,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 19,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,3,3. Somewhat agree
+test employee 19,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 19,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,3,3. Somewhat agree
+test employee 19,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 19,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,1,1. Disagree
+test employee 19,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 19,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 19,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 19,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,4,4. Agree
+test employee 20,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,3,3. Somewhat agree
+test employee 20,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,4,4. Agree
+test employee 20,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 20,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,4,4. Agree
+test employee 20,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 20,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 20,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 20,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 20,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 20,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 20,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,3,3. Somewhat agree
+test employee 20,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 20,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,2,2. Somewhat disagree
+test employee 20,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 20,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 20,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,3,3. Somewhat agree
+test employee 20,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,3,3. Somewhat agree
+test employee 20,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 20,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 20,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 20,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 20,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 20,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 20,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,3,3. Somewhat agree
+test employee 20,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 20,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 20,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 20,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 20,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 20,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 20,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,3,3. Somewhat agree
+test employee 20,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 20,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 20,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 20,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 20,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 21,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 21,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 21,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 21,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,3,3. Somewhat agree
+test employee 21,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 21,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 21,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 21,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 21,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 21,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 21,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 21,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 21,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,2,2. Somewhat disagree
+test employee 21,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,1,1. Disagree
+test employee 21,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 21,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 21,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,1,1. Disagree
+test employee 21,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 21,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 21,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 21,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 21,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 21,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 21,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 21,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,3,3. Somewhat agree
+test employee 21,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,4,4. Agree
+test employee 21,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 21,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 21,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 21,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,3,3. Somewhat agree
+test employee 21,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 21,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 21,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 21,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,3,3. Somewhat agree
+test employee 21,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,4,4. Agree
+test employee 21,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 22,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 22,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 22,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 22,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 22,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 22,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 22,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 22,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 22,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 22,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 22,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 22,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 22,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,1,1. Disagree
+test employee 22,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,1,1. Disagree
+test employee 22,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 22,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 22,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 22,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 22,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 22,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 22,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 22,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 22,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 22,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 22,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 22,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 22,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 22,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,3,3. Somewhat agree
+test employee 22,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 22,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 22,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 22,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 22,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 22,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 22,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,3,3. Somewhat agree
+test employee 22,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
+test employee 23,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 23,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 23,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 23,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 23,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 23,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 23,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,3,3. Somewhat agree
+test employee 23,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 23,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 23,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 23,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,3,3. Somewhat agree
+test employee 23,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 23,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,2,2. Somewhat disagree
+test employee 23,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 23,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 23,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 23,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 23,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 23,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 23,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 23,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 23,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 23,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,4,4. Agree
+test employee 23,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 23,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,3,3. Somewhat agree
+test employee 23,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 23,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 23,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 23,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 23,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 23,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,1,1. Disagree
+test employee 23,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 23,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 23,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 23,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 23,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
+test employee 24,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 24,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 24,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 24,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 24,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 24,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 24,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 24,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 24,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 24,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 24,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 24,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 24,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,2,2. Somewhat disagree
+test employee 24,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 24,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 24,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 24,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,1,1. Disagree
+test employee 24,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 24,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 24,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 24,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 24,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 24,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 24,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,2,2. Somewhat disagree
+test employee 24,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,3,3. Somewhat agree
+test employee 24,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 24,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 24,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,3,3. Somewhat agree
+test employee 24,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 24,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 24,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,1,1. Disagree
+test employee 24,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,2,2. Somewhat disagree
+test employee 24,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 24,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 24,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 24,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
+test employee 25,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,1,1. Disagree
+test employee 25,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 25,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 25,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 25,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 25,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 25,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 25,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,2,2. Somewhat disagree
+test employee 25,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 25,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 25,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 25,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 25,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,1,1. Disagree
+test employee 25,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,1,1. Disagree
+test employee 25,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 25,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,1,1. Disagree
+test employee 25,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 25,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 25,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 25,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 25,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,1,1. Disagree
+test employee 25,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 25,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 25,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 25,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,3,3. Somewhat agree
+test employee 25,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 25,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 25,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 25,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 25,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 25,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,1,1. Disagree
+test employee 25,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 25,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 25,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 25,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,3,3. Somewhat agree
+test employee 25,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
+test employee 26,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 26,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 26,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,3,3. Somewhat agree
+test employee 26,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 26,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 26,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 26,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 26,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 26,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 26,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 26,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 26,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 26,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 26,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 26,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 26,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,3,3. Somewhat agree
+test employee 26,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,1,1. Disagree
+test employee 26,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 26,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 26,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 26,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 26,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 26,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,4,4. Agree
+test employee 26,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 26,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 26,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 26,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 26,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 26,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 26,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 26,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 26,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 26,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,4,4. Agree
+test employee 26,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 26,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,3,3. Somewhat agree
+test employee 26,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
+test employee 27,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 27,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 27,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 27,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 27,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,2,2. Somewhat disagree
+test employee 27,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 27,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 27,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 27,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 27,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 27,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 27,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 27,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,1,1. Disagree
+test employee 27,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,3,3. Somewhat agree
+test employee 27,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 27,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 27,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 27,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 27,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 27,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 27,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 27,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 27,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 27,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 27,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,3,3. Somewhat agree
+test employee 27,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 27,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 27,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 27,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 27,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 27,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 27,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 27,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 27,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,2,2. Somewhat disagree
+test employee 27,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,4,4. Agree
+test employee 27,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,3,3. Somewhat agree
+test employee 28,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,1,1. Disagree
+test employee 28,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 28,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 28,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 28,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 28,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 28,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 28,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 28,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 28,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 28,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 28,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 28,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,1,1. Disagree
+test employee 28,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,1,1. Disagree
+test employee 28,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 28,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 28,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 28,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 28,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 28,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 28,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 28,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 28,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 28,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 28,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 28,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,2,2. Somewhat disagree
+test employee 28,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 28,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,3,3. Somewhat agree
+test employee 28,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 28,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 28,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,1,1. Disagree
+test employee 28,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 28,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 28,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 28,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,4,4. Agree
+test employee 28,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
+test employee 29,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,1,1. Disagree
+test employee 29,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,1,1. Disagree
+test employee 29,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 29,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 29,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 29,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,2,2. Somewhat disagree
+test employee 29,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 29,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 29,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,3,3. Somewhat agree
+test employee 29,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,2,2. Somewhat disagree
+test employee 29,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,2,2. Somewhat disagree
+test employee 29,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,3,3. Somewhat agree
+test employee 29,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,1,1. Disagree
+test employee 29,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,2,2. Somewhat disagree
+test employee 29,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,2,2. Somewhat disagree
+test employee 29,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,2,2. Somewhat disagree
+test employee 29,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 29,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,2,2. Somewhat disagree
+test employee 29,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,4,4. Agree
+test employee 29,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,3,3. Somewhat agree
+test employee 29,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 29,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,4,4. Agree
+test employee 29,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 29,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 29,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 29,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 29,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,3,3. Somewhat agree
+test employee 29,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,2,2. Somewhat disagree
+test employee 29,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,3,3. Somewhat agree
+test employee 29,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,2,2. Somewhat disagree
+test employee 29,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,1,1. Disagree
+test employee 29,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 29,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 29,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,1,1. Disagree
+test employee 29,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,2,2. Somewhat disagree
+test employee 29,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
+test employee 30,Executive,STRATEGY / Credibility,Information,Are key influencers regularly speaking for themselves in the public communications?,2,2. Somewhat disagree
+test employee 30,Executive,STRATEGY / Credibility,Behavior,Is all or most communication explicitly published by an executive level change leader?,2,2. Somewhat disagree
+test employee 30,Executive,STRATEGY / Credibility,Benefit,Can participants see alignment of their preferences and responsibilities as influencers?,2,2. Somewhat disagree
+test employee 30,Executive,PORTFOLIO / Progress,Information,Can participants easily see where their own impact is benefiting progress?,2,2. Somewhat disagree
+test employee 30,Executive,PORTFOLIO / Progress,Behavior,Do management leads show collaboration with each other in discussions and decisions?,3,3. Somewhat agree
+test employee 30,Executive,PORTFOLIO / Progress,Benefit,Are proposed impacts described both as outcomes and support?,1,1. Disagree
+test employee 30,Executive,CAMPAIGN / Engagement,Information,Does messaging consistently treat change effort as being driven by stakeholders’ benefits?,2,2. Somewhat disagree
+test employee 30,Executive,CAMPAIGN / Engagement,Behavior,Are existing legacy communication channels directing staff to the shared change tracking?,1,1. Disagree
+test employee 30,Executive,CAMPAIGN / Engagement,Benefit,Are work managers successfully translating the right ideas into the right languages?,2,2. Somewhat disagree
+test employee 30,Executive,KNOWL MGMT / Transparency,Information,Is a “best place to work” story coming through clearly in communications?,3,3. Somewhat agree
+test employee 30,Executive,KNOWL MGMT / Transparency,Behavior,Do employees have simple always-on access to a dashboard & scorecard of change initiatives?,1,1. Disagree
+test employee 30,Executive,KNOWL MGMT / Transparency,Benefit,Is knowledge development clearly identified as both a requirement and an opportunity?,2,2. Somewhat disagree
+test employee 30,Operational,BUS ARCH / Transitions,Information,Can staff see and promptly recognize plan modifications that change their own expected contribution?,3,3. Somewhat agree
+test employee 30,Operational,BUS ARCH / Transitions,Behavior,Can staff contribute easily to the business process designs?,1,1. Disagree
+test employee 30,Operational,BUS ARCH / Transitions,Benefit,Is a performance management system used to support talent and skill development for change?,3,3. Somewhat agree
+test employee 30,Operational,CONFIG’N / Orchestration,Information,Does each distinctive contributor (individual or workgroup) have a profile of their role capability that is easily discoverable  company-wide?,1,1. Disagree
+test employee 30,Operational,CONFIG’N / Orchestration,Behavior,Do terms of cooperative agreement usually frame requests and discussions  for collaboration?,2,2. Somewhat disagree
+test employee 30,Operational,CONFIG’N / Orchestration,Benefit,Are stakeholders routinely acknowledged for their performance and impact as collaborators?,1,1. Disagree
+test employee 30,Operational,DESIGN / Scope,Information,Are program managers usually part of the change design team?,3,3. Somewhat agree
+test employee 30,Operational,DESIGN / Scope,Behavior,Is impact analysis of proposals done before approvals occur?,4,4. Agree
+test employee 30,Operational,DESIGN / Scope,Benefit,Are all participants invited to join the impact assessment?,2,2. Somewhat disagree
+test employee 30,Operational,DEV / Completeness,Information,Are projects sized for deliverability instead of for other reasons?,3,3. Somewhat agree
+test employee 30,Operational,DEV / Completeness,Behavior,Is production defined by deliverables more than by process?,3,3. Somewhat agree
+test employee 30,Operational,DEV / Completeness,Benefit,Do new proposals usually incorporate the output of other current or proposed changes?,1,1. Disagree
+test employee 30,Transactional,AGILITY / Systems,Information,Are both legacy and new methods being adapted to prioritize change execution (not just business-as-usual) effects?,2,2. Somewhat disagree
+test employee 30,Transactional,AGILITY / Systems,Behavior,Does recommended practice accept a range of methods for meeting  objectives?,3,3. Somewhat agree
+test employee 30,Transactional,AGILITY / Systems,Benefit,Do workers have sufficient autonomy to create solution proposals for any change?,2,2. Somewhat disagree
+test employee 30,Transactional,VALUE NTWKG / Execution,Information,Can functional workgroups confidently take on a full time posture as service providers?,3,3. Somewhat agree
+test employee 30,Transactional,VALUE NTWKG / Execution,Behavior,Do all “collaborators” accept equal accountability in agreeing to share work?,2,2. Somewhat disagree
+test employee 30,Transactional,VALUE NTWKG / Execution,Benefit,Is leadership recognized independently of job titles?,1,1. Disagree
+test employee 30,Transactional,STAKEHOLDER ROI / Feedback,Information,Are all workgroup members able to see when they should initiate adjustments among the workgroup?,2,2. Somewhat disagree
+test employee 30,Transactional,STAKEHOLDER ROI / Feedback,Behavior,Does performance evaluation of processing recognize a range of outcomes as being valuable?,3,3. Somewhat agree
+test employee 30,Transactional,STAKEHOLDER ROI / Feedback,Benefit,Is the individual’s employment security increased with commitments to change initiatives?,3,3. Somewhat agree
+test employee 30,Transactional,CAPABILITY MATURITY / Learning,Information,Is always-on user and technical support explicitly established to help FTEs manage change?,3,3. Somewhat agree
+test employee 30,Transactional,CAPABILITY MATURITY / Learning,Behavior,Are professional development allowances protected from other competing pressures of demand?,3,3. Somewhat agree
+test employee 30,Transactional,CAPABILITY MATURITY / Learning,Benefit,Are individuals free to join learning programs for changes where they do not also have assignments?,2,2. Somewhat disagree
