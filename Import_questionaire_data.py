@@ -31,14 +31,17 @@ def execute_company_data_import(information):
     files = os.listdir(file_dir)
     
     ### list for storing company
-    company_data_list = []
+    company_data_dict = {}
     
     ### initiate company data
     for f in files:
         if ".csv" in f: ### for all csv files
-            company_data_list.append(create_company_data(f , file_dir))    
+            company = create_company_data(f , file_dir)
+            index = company.company_name
+            dataframe = company.df
+            company_data_dict.update({index : dataframe})    
 
-    return company_data_list
+    return company_data_dict
 
 if __name__ == "__main__":
     print("questionaire module imported")
