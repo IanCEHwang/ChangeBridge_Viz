@@ -42,7 +42,7 @@ def filter_df(df, employee_selected_list):
         ### if no selection yet
         return  df
 
-###---------------------------------Sidebar---------------------------------
+###------------------------------------Main------------------------------------
 
 ### Main
 st.title("Questionaire responses")
