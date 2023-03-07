@@ -39,6 +39,7 @@ def execute_company_data_import(information):
             company = create_company_data(f , file_dir)
             index = company.company_name
             dataframe = company.df
+            dataframe = dataframe[information.wanted_columns]
             company_data_dict.update({index : dataframe})    
 
     return company_data_dict
