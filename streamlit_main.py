@@ -1,5 +1,4 @@
 import importlib
-
 import os
 import time  # to simulate a real time data, time loop
 import numpy as np  # np mean, np random
@@ -12,7 +11,6 @@ from pathlib import Path
 from util import filter_df
 
 
-
 ### import all companies
 company_dict = Import_questionaire_data.execute_company_data_import(information)
 
@@ -20,7 +18,7 @@ company_dict = Import_questionaire_data.execute_company_data_import(information)
 ###---------------------------------Sidebar---------------------------------
 
 ### select company
-st.sidebar.header("Customer filters")
+st.sidebar.header("Client filters")
 company_selected= st.sidebar.selectbox(label = 'Select Company',
                                         options = np.asarray(list(company_dict.keys())))
 
@@ -55,5 +53,14 @@ company_df = company_dict[company_selected]
 filtered_df = filter_df(company_df , questions_selected , roles_selected , tiers_selected , employees_selected)
 
 st.dataframe(data = filtered_df)
+
+
+st.sidebar.download_button(
+    label = "Download CSV",
+    data = filtered_df.to_csv().encode('utf-8'),
+    file_name = f'{company_selected}.csv',
+    mime = 'csv',
+)
+
 
 
